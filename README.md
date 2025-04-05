@@ -8,3 +8,6 @@ Projeto co Curso de Desenvolvimento Mobile da Graduação de SISTEMAS DE INFORMA
 * Saber implementar as funcionalidades de um app na linguagem Java;
 * Saber utilizar os Intents para realizar a interação com aplicativos externos;
 * Saber exportar um projeto do Android Studio.
+
+# Aluno: Luciano Bento de Faria
+## RA. 3713537504
